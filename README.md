@@ -36,4 +36,4 @@ Answer: - Product Name
 - Target audience
 ## 12. How can you succinctly convey the purpose and key features of a product?
 By using clear and concise language
-By focusing on its benefits and advantages 
+By focusing on its benefits and advantages.
